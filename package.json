@@ -1,0 +1,19 @@
+{
+  "name": "@srujanadeva/my-public-pkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Published via GitHub Actions!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Srujana274/palindrome.git"
+  },
+  "keywords": ["example", "npm", "package"],
+  "author": "Srujana",
+  "license": "MIT"
+ 
+  
+}
