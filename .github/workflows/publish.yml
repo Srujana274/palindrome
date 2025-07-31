@@ -3,7 +3,7 @@ name: Publish to npm
 on:
   push:
     tags:
-      - 'v*' # Pushing tags like v1.0.0 triggers the workflow
+      - 'v*'  # Triggers on tags like v1.0.0
 
 jobs:
   publish:
@@ -14,8 +14,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '18'
-          registry-url: 'https://registry.npmjs.org'  # ✅ Fixed: no extra spaces
-          scope: '@yourusername' # 🔁 Replace with your actual npm username or org, e.g., @johndoe
+          registry-url: 'https://registry.npmjs.org'
+          scope: '@Srujana274'  
 
       - run: npm ci
 
