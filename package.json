@@ -1,6 +1,9 @@
 {
   "name": "my-palindrome-util",
   "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A simple palindrome checker",
   "main": "index.js",
   "scripts": {
