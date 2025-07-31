@@ -1,5 +1,5 @@
 {
-  "name": "@Srujana/palindrome-util",
+  "name": "my-palindrome-util",
   "version": "1.0.3",
   "publishConfig": {
     "access": "public"
