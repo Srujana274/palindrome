@@ -1,5 +1,5 @@
 {
-  "name": "@srujanadeva/my-public-pkg",
+  "name": "my-palindrome-util",
   "version": "1.0.0",
   "description": "A simple palindrome checker",
   "main": "index.js",
