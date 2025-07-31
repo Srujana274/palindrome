@@ -18,5 +18,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Srujana274/palindrome.git"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Vikas Mahanti",
+      "email": "mahanthivikas965@gmail.com",
+      "url": "https://github.com/vikas965"
+    }
+    
+  ]
 }
